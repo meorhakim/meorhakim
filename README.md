@@ -1,4 +1,4 @@
-![Logo](./src/assets/images/background/login-img.png")
+<img src="./src/assets/images/logo/juiceup/juiceup-vector.svg" alt="Lumiere" width="250" height="auto"></a>
 
 # EvPortal
 
