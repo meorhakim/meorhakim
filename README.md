@@ -1,6 +1,6 @@
 <p>
-<picture src="./src/assets/images/background/login-img.png" alt="Logo" width="250" height="auto">
-</picture>
+<img src="./src/assets/images/background/login-img.png" alt="Logo" width="250" height="auto">
+</img></p>
 
 # EvPortal
 
