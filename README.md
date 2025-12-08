@@ -1,5 +1,7 @@
 <p align=center>
-    <a><img src="./img/juiceup-vector.svg" alt="Logo" width="250"></a>
+<img src="src/assets/images/background/login-img.png" alt="Logo" width="250" height="auto">
+![My Diagram](src/assets/images/background/login-img.png)
+
 </p>
 
 # EvPortal
