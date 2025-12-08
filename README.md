@@ -1,8 +1,8 @@
-<img src="src/assets/images/logo/juiceup/juiceup.svg" width="100" align="left">
-
 # EvPortal
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
+
+<img src="src/assets/images/logo/juiceup/juiceup.svg" width="100" align="left">
 
 ## Development server
 
