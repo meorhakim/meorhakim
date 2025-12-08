@@ -1,4 +1,4 @@
-![Logo](./src/assets/images/logo/juiceup/juiceup-vector.svg")
+![Logo](./src/assets/images/background/login-img.png")
 
 # EvPortal
 
