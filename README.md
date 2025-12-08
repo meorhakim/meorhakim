@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
-<img src="src/assets/images/logo/juiceup/juiceup.svg" alt="Logo" width="250" height="auto">
-<h1>Try and Error</h1>
+  <img src="src/assets/images/logo/juiceup/juiceup.svg" width="100">
+  <h1 style="margin-left: 20px;">Try and Error</h1>
 </div>
 # EvPortal
 
