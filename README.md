@@ -1,5 +1,5 @@
 <p>
-    <img src="img/juiceup-vector.svg" alt="Logo" width="250">
+    <img src="./img/juiceup-vector.svg" alt="Logo" width="250">
 </p>
 
 # EvPortal
