@@ -1,4 +1,4 @@
-<img src="src/assets/images/logo/juiceup/juiceup.svg" width="100" align="right">
+<img src="src/assets/images/logo/juiceup/juiceup.svg" width="100" align="left">
 
 # EvPortal
 
