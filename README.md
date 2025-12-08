@@ -1,8 +1,7 @@
 <p align=center>
 <img src="src/assets/images/logo/juiceup/juiceup-vector.svg" alt="Logo" width="250" height="auto">
+<img src="src/assets/images/logo/juiceup/juiceup.svg" alt="Logo" width="250" height="auto">
 </p>
-![My Diagram](src/assets/images/background/login-img.png)
-
 # EvPortal
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
