@@ -1,7 +1,7 @@
-<p align=center>
+<div style="display: flex; align-items: center;">
 <img src="src/assets/images/logo/juiceup/juiceup.svg" alt="Logo" width="250" height="auto">
 <h1>Try and Error</h1>
-</p>
+</div>
 # EvPortal
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
