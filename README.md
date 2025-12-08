@@ -1,6 +1,6 @@
 <p align=center>
-<img src="src/assets/images/logo/juiceup/juiceup-vector.svg" alt="Logo" width="250" height="auto">
 <img src="src/assets/images/logo/juiceup/juiceup.svg" alt="Logo" width="250" height="auto">
+<h1>Try and Error</h1>
 </p>
 # EvPortal
 
