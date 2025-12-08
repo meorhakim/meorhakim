@@ -1,0 +1,81 @@
+@use '@angular/material' as mat;
+
+$spacing1: 0.625rem;
+$spacing2: 1.25rem;
+:host {
+    display: block;
+    width: 100%; height: 100dvh;
+}
+main {
+    display: flex;
+    width: 100%; height: 100%;
+    .banner {
+        width: 40%; height: 100%;
+        background-image: url('src/assets/images/background/login-img.png');
+        background-position: center;
+        background-size: cover;
+    }
+    .screen {
+        flex: 1 1 0;
+        display: flex;
+        height: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        .header {
+            display: flex;
+            width: 100%; height: fit-content;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: $spacing2;
+            img {
+                width: auto; height: 12dvh;
+                margin-bottom: $spacing1;
+            }
+        }
+        .authenticate {
+            display: flex;
+            width: 100%; height: fit-content;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: $spacing1;
+            .toggle-login {
+                position: relative;
+                display: flex;
+                width: 100%; height: fit-content;
+                max-width: 15rem;
+                border: solid 1px var(--mat-sys-primary);
+                border-radius: 3rem;
+                overflow: hidden;
+                .toggle-section {
+                    display: flex;
+                    width: 50%; height: 100%;
+                    padding: $spacing1;
+                    justify-content: center;
+                    cursor: pointer;
+                }
+                .handler {
+                    position: absolute;
+                    top: 0; left: 0;
+                    width: 50%; height: 100%;
+                    border-radius: 3rem;
+                    background: #dddddd;
+                    z-index: -1;
+                }
+            }
+            .login-input {
+                display: flex;
+                width: 100%; height: fit-content;
+                max-width: 30rem;
+                gap: $spacing1;
+                @include mat.form-field-overrides((
+                    outlined-container-shape: 3rem,
+                    container-height: 2.8rem,
+                    container-vertical-padding: 0.8rem,
+                ));
+            }
+        }
+    }
+}

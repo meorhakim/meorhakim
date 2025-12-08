@@ -1,0 +1,31 @@
+<main>
+    <div class="banner">
+
+    </div>
+    <div class="screen">
+        <div class="header">
+            <img [src]="merchantLogo" alt="Logo">
+            <h1>CPO Central</h1>
+            <h3>Merchant Hub | EV Portal</h3>
+        </div>
+        <div class="authenticate">
+            <h4>Log In</h4>
+            <div class="toggle-login">
+                <div class="toggle-section" (click)="loginChoice($event)"><h6>Phone Number</h6></div>
+                <div class="toggle-section" (click)="loginChoice($event)"><h6>User Name</h6></div>
+                <div class="handler"></div>
+            </div>
+            <div class="login-input">
+                <mat-form-field appearance="outline">
+                    <mat-label>Phone Number</mat-label>
+                    <input matInput>
+                </mat-form-field>
+                <mat-form-field appearance="outline">
+                    <mat-label>Password</mat-label>
+                    <input matInput>
+                </mat-form-field>
+            </div>
+            <button matButton="filled">Login</button>
+        </div>
+    </div>
+</main>
