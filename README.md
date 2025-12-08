@@ -16,10 +16,10 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 ## Code scaffolding
 
-<div style="display: flex; align-items: center;">
+<span style="display: flex; align-items: center;">
   <img src="src/assets/images/logo/juiceup/juiceup.svg" width="100">
   <h3 style="margin-left: 20px;">Try and Error</h3>
-</div>
+</span>
 
 Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
 
