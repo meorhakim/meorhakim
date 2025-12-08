@@ -1,5 +1,8 @@
+<p>
 <img src="src/assets/images/background/login-img.png" alt="Logo" width="250" height="auto">
 ![My Diagram](src/assets/images/background/login-img.png)
+![Cute Cat](https://placekitten.com/300/200)
+</p>
 
 # EvPortal
 
