@@ -1,5 +1,10 @@
 # EvPortal
 
+[![Github](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
 
 <img src="src/assets/images/logo/juiceup/juiceup.svg" width="100" align="left">
